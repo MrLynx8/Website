@@ -10,8 +10,14 @@ hr{
   border-width: 10px;
 }
 h1{
-  color: #7895B2
+  color: #7895B2;
 }
 h3{
-  color: #7895B2
+  color: #7895B2;
 }
+img{
+  border-radius: 98px;
+  border-color: black;
+  background-color: grey;
+}
+
