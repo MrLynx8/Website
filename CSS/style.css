@@ -20,4 +20,7 @@ img{
   border-color: black;
   background-color: grey;
 }
-
+img:hover{
+  height: 250px;
+  width: 250px
+}
